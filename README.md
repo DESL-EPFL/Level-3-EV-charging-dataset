@@ -1,4 +1,4 @@
-# Level 3 electric vehicle charging dataset made available by the EPFL Distributed Electrical Systems Laboratory
+# Level 3 electric vehicle charging dataset
 ## Description of the commercial EV charging station used to collect the dataset
 
 The dataset has been collected on a level 3 electric vehicle (EV) charging station located in southwestern Switzerland. The data has been measured from April 12th 2022 to July 4th 2023.
